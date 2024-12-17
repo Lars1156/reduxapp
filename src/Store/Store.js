@@ -5,5 +5,5 @@ const store = configureStore({
     reducer:{
         carts:cartSlice
     }
-});
+})
 export default store;
